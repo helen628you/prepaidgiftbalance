@@ -20,7 +20,7 @@ PrepaidGiftBalance is a modern React-based application designed to help users tr
 ## Author
 **Helen Young**  
 Email: [helen628young@outlook.com](mailto:helen628young@outlook.com)  
-Website: [PrepaidGiftBalance](https://prepaidgiftbalance)  
+Website: [PrepaidGiftBalance](https://www.prepaidgiftbalance.it.com)  
 
 Helen is a front-end software engineer with 7+ years of experience in React.js and modern web technologies. She specializes in building intuitive user experiences and believes in open-source collaboration. She's known for her helpful nature and clean coding style.
 
